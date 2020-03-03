@@ -1,0 +1,5802 @@
+﻿[
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aegon-V-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 40,
+      "start": 4,
+      "end": 6,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 42,
+      "start": 6,
+      "end": 21,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alleras"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 43,
+      "start": 6,
+      "end": 22,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alliser-Thorne"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Andrey-Dalt"
+      }
+    },
+    "r": {
+      "identity": 220,
+      "start": 32,
+      "end": 38,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 10
+      }
+    },
+    "m": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Areo-Hotah"
+      }
+    },
+    "r": {
+      "identity": 246,
+      "start": 37,
+      "end": 38,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 28
+      }
+    },
+    "m": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alleras"
+      }
+    },
+    "r": {
+      "identity": 153,
+      "start": 21,
+      "end": 39,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 39,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Armen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 90,
+      "start": 10,
+      "end": 45,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 45,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arthur-Dayne"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Anguy"
+      }
+    },
+    "r": {
+      "identity": 225,
+      "start": 33,
+      "end": 47,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 15
+      }
+    },
+    "m": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Amory-Lorch"
+      }
+    },
+    "r": {
+      "identity": 195,
+      "start": 29,
+      "end": 47,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aenys-Frey"
+      }
+    },
+    "r": {
+      "identity": 67,
+      "start": 7,
+      "end": 47,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Amabel"
+      }
+    },
+    "r": {
+      "identity": 190,
+      "start": 27,
+      "end": 47,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Areo-Hotah"
+      }
+    },
+    "r": {
+      "identity": 247,
+      "start": 37,
+      "end": 48,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 48,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arys-Oakheart"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    },
+    "r": {
+      "identity": 255,
+      "start": 38,
+      "end": 48,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 19
+      }
+    },
+    "m": {
+      "identity": 48,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arys-Oakheart"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arnolf-Karstark"
+      }
+    },
+    "r": {
+      "identity": 279,
+      "start": 40,
+      "end": 49,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aeron-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 71,
+      "start": 8,
+      "end": 49,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alysane-Mormont"
+      }
+    },
+    "r": {
+      "identity": 187,
+      "start": 26,
+      "end": 49,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 18
+      }
+    },
+    "m": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alester-Florent"
+      }
+    },
+    "r": {
+      "identity": 136,
+      "start": 17,
+      "end": 52,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 52,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Axell-Florent"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aeron-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 72,
+      "start": 8,
+      "end": 55,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 55,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Baelor-Blacktyde"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 388,
+      "start": 49,
+      "end": 59,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 15
+      }
+    },
+    "m": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aeron-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 73,
+      "start": 8,
+      "end": 59,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 17
+      }
+    },
+    "m": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Baelor-Blacktyde"
+      }
+    },
+    "r": {
+      "identity": 431,
+      "start": 55,
+      "end": 59,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Areo-Hotah"
+      }
+    },
+    "r": {
+      "identity": 248,
+      "start": 37,
+      "end": 140,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 140,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Swann"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    },
+    "r": {
+      "identity": 256,
+      "start": 38,
+      "end": 140,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 140,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Swann"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 91,
+      "start": 10,
+      "end": 143,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aggo"
+      }
+    },
+    "r": {
+      "identity": 113,
+      "start": 12,
+      "end": 143,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aggo"
+      }
+    },
+    "r": {
+      "identity": 114,
+      "start": 12,
+      "end": 148,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 148,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Belwas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arstan"
+      }
+    },
+    "r": {
+      "identity": 288,
+      "start": 44,
+      "end": 148,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 25
+      }
+    },
+    "m": {
+      "identity": 148,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Belwas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 475,
+      "start": 143,
+      "end": 148,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 14
+      }
+    },
+    "m": {
+      "identity": 148,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Belwas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 476,
+      "start": 143,
+      "end": 150,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 150,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Ben-Plumm"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Belwas"
+      }
+    },
+    "r": {
+      "identity": 525,
+      "start": 148,
+      "end": 150,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 150,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Ben-Plumm"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Anya-Waynwood"
+      }
+    },
+    "r": {
+      "identity": 234,
+      "start": 34,
+      "end": 151,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 151,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Benedar-Belmore"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 302,
+      "start": 47,
+      "end": 155,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 155,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Benjen-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 303,
+      "start": 47,
+      "end": 156,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 28
+      }
+    },
+    "m": {
+      "identity": 156,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Beric-Dondarrion"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Anguy"
+      }
+    },
+    "r": {
+      "identity": 226,
+      "start": 33,
+      "end": 156,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 156,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Beric-Dondarrion"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 304,
+      "start": 47,
+      "end": 159,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 10
+      }
+    },
+    "m": {
+      "identity": 159,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Biter"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 477,
+      "start": 143,
+      "end": 162,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 162,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bloodbeard"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Swann"
+      }
+    },
+    "r": {
+      "identity": 453,
+      "start": 140,
+      "end": 165,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 165,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Boros-Blount"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 478,
+      "start": 143,
+      "end": 165,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 165,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Boros-Blount"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 44,
+      "start": 6,
+      "end": 166,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alliser-Thorne"
+      }
+    },
+    "r": {
+      "identity": 163,
+      "start": 22,
+      "end": 166,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Beth-Cassel"
+      }
+    },
+    "r": {
+      "identity": 587,
+      "start": 157,
+      "end": 167,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Benjen-Stark"
+      }
+    },
+    "r": {
+      "identity": 558,
+      "start": 155,
+      "end": 167,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alebelly"
+      }
+    },
+    "r": {
+      "identity": 130,
+      "start": 15,
+      "end": 167,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 305,
+      "start": 47,
+      "end": 167,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 40
+      }
+    },
+    "m": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 92,
+      "start": 10,
+      "end": 169,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 169,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brandon-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 306,
+      "start": 47,
+      "end": 170,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 170,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brea"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Biter"
+      }
+    },
+    "r": {
+      "identity": 592,
+      "start": 159,
+      "end": 173,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 93,
+      "start": 10,
+      "end": 173,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balman-Byrch"
+      }
+    },
+    "r": {
+      "identity": 440,
+      "start": 58,
+      "end": 174,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 174,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bronn"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alayaya"
+      }
+    },
+    "r": {
+      "identity": 123,
+      "start": 13,
+      "end": 174,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 174,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bronn"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 635,
+      "start": 167,
+      "end": 177,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 14
+      }
+    },
+    "m": {
+      "identity": 177,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brynden-Rivers"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 308,
+      "start": 47,
+      "end": 178,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 178,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brynden-Tully"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Addam-Marbrand"
+      }
+    },
+    "r": {
+      "identity": 0,
+      "start": 0,
+      "end": 178,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 178,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brynden-Tully"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Areo-Hotah"
+      }
+    },
+    "r": {
+      "identity": 249,
+      "start": 37,
+      "end": 183,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 183,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Caleotte"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 309,
+      "start": 47,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 699,
+      "start": 173,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 53
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Beric-Dondarrion"
+      }
+    },
+    "r": {
+      "identity": 571,
+      "start": 156,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brenett"
+      }
+    },
+    "r": {
+      "identity": 698,
+      "start": 172,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aegon-Frey-(son-of-Stevron)"
+      }
+    },
+    "r": {
+      "identity": 12,
+      "start": 1,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 443,
+      "start": 59,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brynden-Tully"
+      }
+    },
+    "r": {
+      "identity": 774,
+      "start": 178,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 29
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bronn"
+      }
+    },
+    "r": {
+      "identity": 742,
+      "start": 174,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 636,
+      "start": 167,
+      "end": 187,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 24
+      }
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    },
+    "r": {
+      "identity": 257,
+      "start": 38,
+      "end": 189,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 189,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cedra"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    },
+    "r": {
+      "identity": 619,
+      "start": 166,
+      "end": 191,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 191,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cellador"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arys-Oakheart"
+      }
+    },
+    "r": {
+      "identity": 381,
+      "start": 48,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Amory-Lorch"
+      }
+    },
+    "r": {
+      "identity": 196,
+      "start": 29,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 700,
+      "start": 173,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 310,
+      "start": 47,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 25
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Blue-Bard"
+      }
+    },
+    "r": {
+      "identity": 601,
+      "start": 163,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Addam-Marbrand"
+      }
+    },
+    "r": {
+      "identity": 1,
+      "start": 0,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Benjen-Stark"
+      }
+    },
+    "r": {
+      "identity": 559,
+      "start": 155,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bronn"
+      }
+    },
+    "r": {
+      "identity": 743,
+      "start": 174,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 23
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Baelor-I-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 434,
+      "start": 56,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 806,
+      "start": 187,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 30
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 479,
+      "start": 143,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 17
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balman-Byrch"
+      }
+    },
+    "r": {
+      "identity": 441,
+      "start": 58,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alayaya"
+      }
+    },
+    "r": {
+      "identity": 124,
+      "start": 13,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aurane-Waters"
+      }
+    },
+    "r": {
+      "identity": 411,
+      "start": 51,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 94,
+      "start": 10,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 637,
+      "start": 167,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Boros-Blount"
+      }
+    },
+    "r": {
+      "identity": 607,
+      "start": 165,
+      "end": 192,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 23
+      }
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 638,
+      "start": 167,
+      "end": 194,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 194,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chayle"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 45,
+      "start": 6,
+      "end": 196,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bronn"
+      }
+    },
+    "r": {
+      "identity": 744,
+      "start": 174,
+      "end": 197,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 197,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chiggen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 311,
+      "start": 47,
+      "end": 198,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 198,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chiswyck"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Amory-Lorch"
+      }
+    },
+    "r": {
+      "identity": 197,
+      "start": 29,
+      "end": 198,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 198,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chiswyck"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 880,
+      "start": 192,
+      "end": 198,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 198,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chiswyck"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 389,
+      "start": 49,
+      "end": 199,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 199,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Clayton-Suggs"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 881,
+      "start": 192,
+      "end": 202,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 202,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cleos-Frey"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 702,
+      "start": 173,
+      "end": 202,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 12
+      }
+    },
+    "m": {
+      "identity": 202,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cleos-Frey"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 807,
+      "start": 187,
+      "end": 202,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 202,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cleos-Frey"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Archibald-Yronwood"
+      }
+    },
+    "r": {
+      "identity": 241,
+      "start": 35,
+      "end": 203,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 203,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cletus-Yronwood"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 639,
+      "start": 167,
+      "end": 204,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 204,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cley-Cerwyn"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 46,
+      "start": 6,
+      "end": 206,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 33
+      }
+    },
+    "m": {
+      "identity": 206,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Clydas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cellador"
+      }
+    },
+    "r": {
+      "identity": 877,
+      "start": 191,
+      "end": 206,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 206,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Clydas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 640,
+      "start": 167,
+      "end": 208,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 10
+      }
+    },
+    "m": {
+      "identity": 208,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Coldhands"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 808,
+      "start": 187,
+      "end": 209,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 209,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Colemon"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 809,
+      "start": 187,
+      "end": 210,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 210,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Colen-of-Greenpools"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bryce-Caron"
+      }
+    },
+    "r": {
+      "identity": 768,
+      "start": 176,
+      "end": 213,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 213,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cortnay-Penrose"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alester-Florent"
+      }
+    },
+    "r": {
+      "identity": 137,
+      "start": 17,
+      "end": 213,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 213,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cortnay-Penrose"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    },
+    "r": {
+      "identity": 620,
+      "start": 166,
+      "end": 214,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 214,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cotter-Pyke"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 47,
+      "start": 6,
+      "end": 214,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 214,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cotter-Pyke"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Byam-Flint"
+      }
+    },
+    "r": {
+      "identity": 794,
+      "start": 181,
+      "end": 215,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Clubfoot-Karl"
+      }
+    },
+    "r": {
+      "identity": 1000,
+      "start": 205,
+      "end": 215,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bedwyck"
+      }
+    },
+    "r": {
+      "identity": 516,
+      "start": 146,
+      "end": 215,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 703,
+      "start": 173,
+      "end": 216,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 216,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Creighton-Longbough"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aggo"
+      }
+    },
+    "r": {
+      "identity": 115,
+      "start": 12,
+      "end": 220,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 220,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daario-Naharis"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Ben-Plumm"
+      }
+    },
+    "r": {
+      "identity": 537,
+      "start": 150,
+      "end": 220,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 13
+      }
+    },
+    "m": {
+      "identity": 220,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daario-Naharis"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 480,
+      "start": 143,
+      "end": 220,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 18
+      }
+    },
+    "m": {
+      "identity": 220,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daario-Naharis"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 810,
+      "start": 187,
+      "end": 221,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 221,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dacey-Mormont"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arstan"
+      }
+    },
+    "r": {
+      "identity": 289,
+      "start": 44,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 29
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 481,
+      "start": 143,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 83
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aegon-I-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 16,
+      "start": 2,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 13
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aegon-Targaryen-(son-of-Rhaegar)"
+      }
+    },
+    "r": {
+      "identity": 25,
+      "start": 3,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bloodbeard"
+      }
+    },
+    "r": {
+      "identity": 598,
+      "start": 162,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cletus-Yronwood"
+      }
+    },
+    "r": {
+      "identity": 994,
+      "start": 203,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cohollo"
+      }
+    },
+    "r": {
+      "identity": 1007,
+      "start": 207,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Ben-Plumm"
+      }
+    },
+    "r": {
+      "identity": 538,
+      "start": 150,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 24
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Belwas"
+      }
+    },
+    "r": {
+      "identity": 526,
+      "start": 148,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 46
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barsena"
+      }
+    },
+    "r": {
+      "identity": 514,
+      "start": 144,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aggo"
+      }
+    },
+    "r": {
+      "identity": 116,
+      "start": 12,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 30
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 882,
+      "start": 192,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daario-Naharis"
+      }
+    },
+    "r": {
+      "identity": 1065,
+      "start": 220,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 65
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cleon"
+      }
+    },
+    "r": {
+      "identity": 987,
+      "start": 201,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 13
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Benerro"
+      }
+    },
+    "r": {
+      "identity": 548,
+      "start": 152,
+      "end": 223,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aeron-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 74,
+      "start": 8,
+      "end": 225,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dagmer"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Asha-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 390,
+      "start": 49,
+      "end": 225,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dagmer"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 444,
+      "start": 59,
+      "end": 225,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dagmer"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 312,
+      "start": 47,
+      "end": 230,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dareon"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 49,
+      "start": 6,
+      "end": 230,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dareon"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brynden-Tully"
+      }
+    },
+    "r": {
+      "identity": 775,
+      "start": 178,
+      "end": 232,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 232,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daven-Lannister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Allard-Seaworth"
+      }
+    },
+    "r": {
+      "identity": 150,
+      "start": 20,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alester-Florent"
+      }
+    },
+    "r": {
+      "identity": 138,
+      "start": 17,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 14
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Andrew-Estermont"
+      }
+    },
+    "r": {
+      "identity": 217,
+      "start": 31,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cortnay-Penrose"
+      }
+    },
+    "r": {
+      "identity": 1024,
+      "start": 213,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Axell-Florent"
+      }
+    },
+    "r": {
+      "identity": 420,
+      "start": 52,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 21
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cressen"
+      }
+    },
+    "r": {
+      "identity": 1051,
+      "start": 217,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 14
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bartimus"
+      }
+    },
+    "r": {
+      "identity": 515,
+      "start": 145,
+      "end": 233,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 313,
+      "start": 47,
+      "end": 234,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 8
+      }
+    },
+    "m": {
+      "identity": 234,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Denyo-Terys"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cotter-Pyke"
+      }
+    },
+    "r": {
+      "identity": 1029,
+      "start": 214,
+      "end": 235,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 18
+      }
+    },
+    "m": {
+      "identity": 235,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Denys-Mallister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    },
+    "r": {
+      "identity": 621,
+      "start": 166,
+      "end": 235,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 235,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Denys-Mallister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 50,
+      "start": 6,
+      "end": 235,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 235,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Denys-Mallister"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 314,
+      "start": 47,
+      "end": 237,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 237,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Desmond"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 811,
+      "start": 187,
+      "end": 238,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 238,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Desmond-Grell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    },
+    "r": {
+      "identity": 1171,
+      "start": 233,
+      "end": 239,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 239,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Devan-Seaworth"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 704,
+      "start": 173,
+      "end": 240,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 21
+      }
+    },
+    "m": {
+      "identity": 240,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dick-Crabb"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    },
+    "r": {
+      "identity": 1037,
+      "start": 215,
+      "end": 243,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 243,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dirk"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    },
+    "r": {
+      "identity": 622,
+      "start": 166,
+      "end": 245,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 245,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Donal-Noye"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 51,
+      "start": 6,
+      "end": 245,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 245,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Donal-Noye"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 641,
+      "start": 167,
+      "end": 246,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 246,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Donella-Hornwood"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cley-Cerwyn"
+      }
+    },
+    "r": {
+      "identity": 998,
+      "start": 204,
+      "end": 246,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 246,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Donella-Hornwood"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brienne-of-Tarth"
+      }
+    },
+    "r": {
+      "identity": 705,
+      "start": 173,
+      "end": 247,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 247,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dontos-Hollard"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Swann"
+      }
+    },
+    "r": {
+      "identity": 454,
+      "start": 140,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Caleotte"
+      }
+    },
+    "r": {
+      "identity": 800,
+      "start": 183,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 883,
+      "start": 192,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Areo-Hotah"
+      }
+    },
+    "r": {
+      "identity": 250,
+      "start": 37,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 44
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 222,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daemon-Sand"
+      }
+    },
+    "r": {
+      "identity": 1083,
+      "start": 222,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arys-Oakheart"
+      }
+    },
+    "r": {
+      "identity": 382,
+      "start": 48,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arianne-Martell"
+      }
+    },
+    "r": {
+      "identity": 258,
+      "start": 38,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 26
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 1086,
+      "start": 223,
+      "end": 248,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 248,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doran-Martell"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 884,
+      "start": 192,
+      "end": 249,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 18
+      }
+    },
+    "m": {
+      "identity": 249,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dorcas"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 1087,
+      "start": 223,
+      "end": 250,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 18
+      }
+    },
+    "m": {
+      "identity": 250,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doreah"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daario-Naharis"
+      }
+    },
+    "r": {
+      "identity": 1066,
+      "start": 220,
+      "end": 253,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 253,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Drogo"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 250,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Doreah"
+      }
+    },
+    "r": {
+      "identity": 1261,
+      "start": 250,
+      "end": 253,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 253,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Drogo"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cohollo"
+      }
+    },
+    "r": {
+      "identity": 1008,
+      "start": 207,
+      "end": 253,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 9
+      }
+    },
+    "m": {
+      "identity": 253,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Drogo"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 1088,
+      "start": 223,
+      "end": 253,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 123
+      }
+    },
+    "m": {
+      "identity": 253,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Drogo"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aggo"
+      }
+    },
+    "r": {
+      "identity": 117,
+      "start": 12,
+      "end": 253,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 253,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Drogo"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 885,
+      "start": 192,
+      "end": 255,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 16
+      }
+    },
+    "m": {
+      "identity": 255,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dunsen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Chiswyck"
+      }
+    },
+    "r": {
+      "identity": 973,
+      "start": 198,
+      "end": 255,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 255,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dunsen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 316,
+      "start": 47,
+      "end": 255,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 255,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dunsen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Amory-Lorch"
+      }
+    },
+    "r": {
+      "identity": 198,
+      "start": 29,
+      "end": 255,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 255,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dunsen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aeron-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 75,
+      "start": 8,
+      "end": 256,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 256,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dunstan-Drumm"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bannen"
+      }
+    },
+    "r": {
+      "identity": 467,
+      "start": 141,
+      "end": 257,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 257,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dywen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bedwyck"
+      }
+    },
+    "r": {
+      "identity": 517,
+      "start": 146,
+      "end": 257,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 257,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dywen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    },
+    "r": {
+      "identity": 1038,
+      "start": 215,
+      "end": 257,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 257,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dywen"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 226,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dalbridge"
+      }
+    },
+    "r": {
+      "identity": 1146,
+      "start": 226,
+      "end": 258,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 258,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Ebben"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bran-Stark"
+      }
+    },
+    "r": {
+      "identity": 642,
+      "start": 167,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 34
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cleos-Frey"
+      }
+    },
+    "r": {
+      "identity": 990,
+      "start": 202,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cayn"
+      }
+    },
+    "r": {
+      "identity": 872,
+      "start": 188,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Balon-Greyjoy"
+      }
+    },
+    "r": {
+      "identity": 445,
+      "start": 59,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 7
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Beric-Dondarrion"
+      }
+    },
+    "r": {
+      "identity": 572,
+      "start": 156,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 231,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daryn-Hornwood"
+      }
+    },
+    "r": {
+      "identity": 1167,
+      "start": 231,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Brandon-Stark"
+      }
+    },
+    "r": {
+      "identity": 687,
+      "start": 169,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 19
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aegon-I-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 17,
+      "start": 2,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Daenerys-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 1089,
+      "start": 223,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Cersei-Lannister"
+      }
+    },
+    "r": {
+      "identity": 886,
+      "start": 192,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 91
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Catelyn-Stark"
+      }
+    },
+    "r": {
+      "identity": 813,
+      "start": 187,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 88
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aerys-II-Targaryen"
+      }
+    },
+    "r": {
+      "identity": 96,
+      "start": 10,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 15
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Davos-Seaworth"
+      }
+    },
+    "r": {
+      "identity": 1172,
+      "start": 233,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Barristan-Selmy"
+      }
+    },
+    "r": {
+      "identity": 482,
+      "start": 143,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 28
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Arya-Stark"
+      }
+    },
+    "r": {
+      "identity": 317,
+      "start": 47,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 46
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 237,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Desmond"
+      }
+    },
+    "r": {
+      "identity": 1205,
+      "start": 237,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Alyn"
+      }
+    },
+    "r": {
+      "identity": 177,
+      "start": 23,
+      "end": 259,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 11
+      }
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddard-Stark"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bowen-Marsh"
+      }
+    },
+    "r": {
+      "identity": 623,
+      "start": 166,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 12
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Aemon-Targaryen-(Maester-Aemon)"
+      }
+    },
+    "r": {
+      "identity": 52,
+      "start": 6,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Craster"
+      }
+    },
+    "r": {
+      "identity": 1039,
+      "start": 215,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 6
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 235,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Denys-Mallister"
+      }
+    },
+    "r": {
+      "identity": 1198,
+      "start": 235,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 3
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Dywen"
+      }
+    },
+    "r": {
+      "identity": 1297,
+      "start": 257,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 5
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Bedwyck"
+      }
+    },
+    "r": {
+      "identity": 518,
+      "start": 146,
+      "end": 260,
+      "type": "INTERACTS",
+      "properties": {
+        "weight": 4
+      }
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Character"
+      ],
+      "properties": {
+        "name": "Eddison-Tollett"
+      }
+    }
+  }
+]
