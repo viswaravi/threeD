@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "three": "^0.110.0",
+    "three": "^0.137.0",
     "3d-force-graph": "^1.58.1",
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
